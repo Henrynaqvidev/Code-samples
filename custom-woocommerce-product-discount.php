@@ -2,8 +2,8 @@
 /*
 Plugin Name: Custom WooCommerce Product Discount
 Description: This plugin adds a discount field to WooCommerce products.
-Version: 1.0
-Author: Your Name
+Version: 1.0.0
+Author: Henry
 */
 
 defined( 'ABSPATH' ) || exit;
