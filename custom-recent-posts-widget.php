@@ -3,8 +3,8 @@
 Plugin Name: Custom Recent Posts Widget
 Description: Adds a custom widget to display recent posts from a specific category.
 Version: 1.0
-Author: Your Name
-License: GPL2
+Author: Henry
+License: GPL67
 */
 
 class Custom_Recent_Posts_Widget extends WP_Widget {
